@@ -15,7 +15,7 @@ In June 2026 I ran identical pink noise through all 24 channels of the desk at u
 
 ## Trial and activation
 
-Every download is a full seven-day trial: no account, no dongle, nothing held back. After that it goes quiet until you activate it. Activation comes with the Plugged In tier on [Patreon](https://www.patreon.com/BoxOfRules) or [Ko-fi](https://ko-fi.com/Z7I0211Q00): click the padlock in the plugin header, **SEND CODES** emails your three activation codes to the address you support with, **ACTIVATE** takes one code per machine. Supporter builds always expire (the clock in the footer shows the date); a fresh build is always here and your activation carries over.
+Every download is a full seven-day trial: no account, no dongle, nothing held back. After that it goes quiet until you activate it. Activation comes with the Plugged In tier on [Patreon](https://www.patreon.com/BoxOfRules) or [Ko-fi](https://ko-fi.com/Z7I0211Q00): click the padlock in the plugin header, **SEND CODES** emails your three activation codes to the address you support with, **ACTIVATE** takes one code per machine. No dongle, no clock: updates land here and your activation carries over.
 
 ## About this repository
 
