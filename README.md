@@ -5,7 +5,7 @@
 [![DOWNLOAD](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_DOWNLOAD-Latest_Release-2ea44f?style=for-the-badge)](https://github.com/boxofrules/br108/releases/latest)
 [![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/boxofrules)
 
-**One channel of a 1980s British 24-channel console, measured channel by channel.** AU / VST3 / AAX for macOS, VST3 / AAX for Windows, VST3 for Linux. Seven-day trial, then yours as a Box Of Rules supporter.
+**Analogue voices from a 1980s British 24-channel console, measured channel by channel.** AU / VST3 / AAX for macOS, VST3 / AAX for Windows, VST3 for Linux. Seven-day trial, then yours as a Box Of Rules supporter.
 
 ![BR108](assets/br108.png)
 
